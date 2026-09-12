@@ -161,6 +161,7 @@ The basic working process is:
                   │
                   ↓
           Repeat Monitoring
+
 🔐 SHA-256 Hashing
 
 SHA-256 is a cryptographic hashing algorithm.
@@ -405,6 +406,14 @@ Continuous monitoring
 Security alert generation
 File integrity concepts
 Basic cybersecurity monitoring
+
+## ⚠️ Security Note
+
+This project is developed for educational and cybersecurity learning purposes.
+
+The current version is a local File Integrity Monitoring system and should not be considered a complete enterprise security solution.
+
+For production environments, additional security controls such as secure baseline storage, access control, real-time monitoring, centralized logging, alerting, and SIEM integration would be required.
 
 📌 Limitations
 
