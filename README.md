@@ -59,23 +59,26 @@ The main objectives of this project are:
 
 ## 📂 Project Structure
 
+## 📂 Project Structure
+
 ```text
 File_Integrity_Monitor/
 │
-├── alert_state.json
+├── screenshots/
+│   └── dashboard.png.jpg
+│
+├── monitored_files/
+│   ├── important.txt
+│   └── newfile.txt
+│
+├── .gitignore
+├── README.md
 ├── baseline.json
-├── baseline_backup.json
-├── fim.log
 ├── hash_utils.py
 ├── logger.py
 ├── main.py
 ├── monitor.py
-├── requirements.txt
-├── README.md
-│
-└── monitored_files/
-    ├── important.txt
-    └── newfile.txt
+└── requirements.txt
 
 📄 Description of Important Files
 main.py
