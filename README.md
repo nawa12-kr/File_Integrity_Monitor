@@ -433,3 +433,9 @@ This project is created for educational and cybersecurity learning purposes.
 ⭐ File Integrity Monitor
 
 A simple Python cybersecurity project for detecting file modifications, new files, and deleted files using SHA-256 hashing.
+
+## Project Demo
+
+### FIM Dashboard
+
+![FIM Dashboard](screenshots/dashboard.png.jpg)
