@@ -1,0 +1,10 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# FIM runtime files
+fim.log
+alert_state.json
+
+# Backup files
+baseline_backup.json
